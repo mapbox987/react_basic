@@ -5,6 +5,7 @@ import Mynav from './component/Mynav';
 import ReadArticle from './component/ReadArticle';
 import CreateArticle from './component/CreateArticle'
 import UpdateArticle from './component/UpdateArticle'
+//ha
 
 
 class App extends Component {
